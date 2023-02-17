@@ -1,0 +1,22 @@
+{
+    "name": "berwi/easymeter",
+    "autoload": {
+        "psr-4": {
+            "Berwi\\Easymeter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavoberwian",
+            "email": "gustavo.rberwian@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "repositories": {
+        "ionAuth": {
+            "type": "vcs",
+            "url": "git@github.com:benedmunds/CodeIgniter-Ion-Auth.git"
+        }
+    }
+}
